@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "758776572671",
+    "firebase_url": "https://baby-names-b8373.firebaseio.com",
+    "project_id": "baby-names-b8373",
+    "storage_bucket": "baby-names-b8373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758776572671:android:a3b87fa5981a6314",
+        "android_client_info": {
+          "package_name": "com.truevis.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758776572671-g2d4di35naqp99gk6i1kmh1sdvbhopt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGb5ufFW9Fg37DEt_NNMoo86H1YnOda90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758776572671-g2d4di35naqp99gk6i1kmh1sdvbhopt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758776572671-cpaoj1169saasnka6pn04e3r6jg0dsvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truevis.baby-names"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
